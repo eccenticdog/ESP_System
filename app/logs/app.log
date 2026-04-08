@@ -1,0 +1,4 @@
+2026-04-02 14:44:35,495 | INFO     | ITS_App:215 | Memory backend initialized with in-memory fallback.
+2026-04-02 14:44:35,523 | WARNING  | ITS_App:70 | Initializing PostgreSQL memory backend failed, falling back to in-memory: boom
+2026-04-02 14:44:35,523 | INFO     | ITS_App:215 | Memory backend initialized with in-memory fallback.
+2026-04-02 14:44:35,534 | INFO     | ITS_App:68 | Memory backend initialized with PostgreSQL.

@@ -1,0 +1,24 @@
+2026-03-16 09:54:03,558 | ERROR    | ITS_App:35 | 发送请求获取知识库服务下的知识库数据失败:
+2026-03-16 09:54:35,763 | ERROR    | ITS_App:35 | 发送请求获取知识库服务下的知识库数据失败:
+2026-03-16 10:10:28,922 | ERROR    | ITS_App:35 | 发送请求获取知识库服务下的知识库数据失败:
+2026-03-16 10:14:44,380 | ERROR    | ITS_App:35 | 发送请求获取知识库服务下的知识库数据失败:All connection attempts failed
+2026-03-16 10:20:07,995 | ERROR    | ITS_App:35 | 发送请求获取知识库服务下的知识库数据失败:
+2026-03-16 10:24:04,935 | ERROR    | ITS_App:35 | 发送请求获取知识库服务下的知识库数据失败:
+2026-03-16 10:39:26,268 | ERROR    | ITS_App:35 | 发送请求获取知识库服务下的知识库数据失败:
+2026-03-16 10:44:02,406 | ERROR    | ITS_App:35 | 发送请求获取知识库服务下的知识库数据失败:All connection attempts failed
+2026-03-16 10:54:02,372 | ERROR    | ITS_App:35 | 发送请求获取知识库服务下的知识库数据失败:All connection attempts failed
+2026-03-16 10:54:10,101 | ERROR    | ITS_App:35 | 发送请求获取知识库服务下的知识库数据失败:All connection attempts failed
+2026-03-16 10:54:32,151 | ERROR    | ITS_App:35 | 发送请求获取知识库服务下的知识库数据失败:
+2026-03-16 15:35:04,408 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-03-16 15:35:58,925 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-03-16 15:51:00,615 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-03-16 15:51:32,632 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-03-16 15:52:12,233 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-03-16 20:20:40,052 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-03-16 20:21:11,387 | DEBUG    | ITS_App:125 | [Location] Trying IP location for: 117.136.117.42
+2026-03-16 20:21:11,720 | INFO     | ITS_App:154 | [Location] IP location success: 117.136.117.42 → (31.652849, 117.234718)
+2026-03-16 20:21:16,380 | INFO     | ITS_App:253 | [NearestShops] Found 3 shops near (31.65284906375718, 117.23471827635431)
+2026-03-16 20:35:26,477 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-03-16 20:35:53,887 | DEBUG    | ITS_App:125 | [Location] Trying IP location for: 117.136.117.42
+2026-03-16 20:35:54,248 | INFO     | ITS_App:154 | [Location] IP location success: 117.136.117.42 → (31.652849, 117.234718)
+2026-03-16 20:35:57,413 | INFO     | ITS_App:253 | [NearestShops] Found 3 shops near (31.65284906375718, 117.23471827635431)

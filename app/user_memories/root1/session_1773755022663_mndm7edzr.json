@@ -1,0 +1,34 @@
+[
+  {
+    "role": "system",
+    "content": "你是一个有记忆的智能体助手，请基于上下文历史会话用户问题 (会话ID session_1773755022663_mndm7edzr)"
+  },
+  {
+    "role": "assistant",
+    "content": "“吃的”范围太广，可以请您补充以下信息吗？\n- 想要哪类食品？（例如：零食、速食、保健品、调味品等）  \n- 有偏好的品牌或口味吗？  \n- 是给自己买还是送人？  \n- 有预算范围吗？\n我当前仅支持商品查询、商品详情获取和商品对比，不处理下单、售后、地址、导航或技术咨询。"
+  },
+  {
+    "role": "user",
+    "content": "零食"
+  },
+  {
+    "role": "assistant",
+    "content": "以下是几款热门零食推荐，涵盖不同口味和品牌，供你参考：\n---\n### 1. **源氏辣条大礼包**\n- **价格**：¥108.00  \n- **特点**：怀旧风味、麻辣解馋，适合喜欢辣味零食的人群  \n- **店铺**：源氏食品旗舰店（淘宝）  \n- **链接**：[点击查看](https://s.click.taobao.com/t?e=m%3D2%26s%3DqbI6Mm1c3JEcQipKwQzePOeEDrYVVa64r4ll3HtqqoxyINtkUhsv0AvDHLFAp31JvOYC3uniaIMZvXyjnZz4DyRUVuhXTANrzAzxiKY9o1o21iH3QDqMDGEs8nka5PQlxl%2BhMPmMA%2BN2Zyq%2BJnACej%2BguAVKEJPTgFI0aD4edr90mMT4Tt0NdWVM4LpXf11rmKXYi6VLvubmxFkhCs%2B6UoPjYsPIdTOsmu9qhcyXcSqy8a8AqUkDgU4hp%2FSXhooYRBKi%2FCkr92%2BiZ%2BQMlGz6FQ%3D%3D)\n---\n### 2. **乐事功夫熊猫联名新年零食大礼包（615g）**\n- **价格**：¥67.90  \n- **特点**：经典薯片组合，适合追剧、聚会分享  \n- **品牌**：乐事  \n- **链接**：[点击查看](https://s.click.taobao.com/t?e=m%3D2%26s%3DwTfEeuDoL4tw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0KdjU8k9cEbgE6jM5AOsxKkZvXyjnZz4DyRUVuhXTANrzAzxiKY9o1o21iH3QDqMDGEs8nka5PQlUyNpxLfgKr0jWpzpm6nECxtIEvkB5XnthUbvAkQdx5JGdYGQeolVv63t3zBRYZt7MeF6Gn9zVH6hWsgyOyhG0k1FzJgV%2B3b7HOUTGbHCd%2BLU9S8QvOqT5JE8q4VolMpjaWsUeCMEjHRtdaCTTv3Mc8YOae24fhW0)\n---\n### 3. **洽洽喀吱脆非油炸薯片（35g）**\n- **价格**：¥29.67  \n- **特点**：非油炸更健康，酥脆可口，适合办公室或下午茶  \n- **品牌**：洽洽  \n- **链接**：[点击查看](https://s.click.taobao.com/t?e=m%3D2%26s%3DNmduXYS7p%2Bdw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0DKmMZZ2BEZOdUmGWa6wtlkZvXyjnZz4DyRUVuhXTANrzAzxiKY9o1o21iH3QDqMDGEs8nka5PQlUyNpxLfgKr0jWpzpm6nEC0pD7MQ0V3Abd1V7lASiI4VTq3yP3Eup%2FUA4aDLWHbcqNZp%2BxNc1JsC%2BoYcZUZjJTdU%2BdaVyLp%2FsBiVRYEnXaDYCIVg6URy3yp1qgLkLsBod0C41EVQfAJ%2FpeKrsOw0auyGFCzYOOqAQ)\n---\n### 4. **良品铺子椰蓉嫩蛋糕（500g）**\n- **价格**：¥24.90  \n- **特点**：松软香甜，适合早餐或下午茶  \n- **品牌**：良品铺子  \n- **链接**：[点击查看](https://s.click.taobao.com/t?e=m%3D2%26s%3DOcsclxNusQlw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0G72SKRJMsVYWPyDNVUZX5QZvXyjnZz4DyRUVuhXTANrzAzxiKY9o1o21iH3QDqMDGEs8nka5PQlUyNpxLfgKr0jWpzpm6nEC%2FsHV5sCGKrED5VUuTInJP%2BDGYkx6%2FxYXrmJk%2B%2FG6HlwfQoOVEm0sep%2BbK9spa0xUhWmaINmaAV4WI%2BkxsqKifxLKMTdsW%2F5O%2FWbDkzhZuU%2F3WSVL5rS8C0F0HPXN0B62sYl7w3%2FA2kb)\n---\n### 5. **塔啦蜜低卡0脂蒟蒻果冻（150g×6）**\n- **价格**：¥45.90  \n- **特点**：低卡0脂，水果味可吸果冻，适合儿童或控糖人群  \n- **品牌**：塔啦蜜  \n- **链接**：[点击查看](https://s.click.taobao.com/t?e=m%3D2%26s%3DYspKv5dIQDccQipKwQzePOeEDrYVVa64r4ll3HtqqoxyINtkUhsv0K0juDrq1%2Fx6MAYv49QHCE0ZvXyjnZz4DyRUVuhXTANrzAzxiKY9o1o21iH3QDqMDGEs8nka5PQlxl%2BhMPmMA%2BMZdN3QKAUny4deJvKvL5bYg6gLje9bDyzaP8OV0rMGNke5sxGLKWui%2Bjv2XhmCZqvhHyEnnuPWWKfMCyyNbTrnSXGtmoWMyrDkTLwUpjdypX2LUrcUT0MzLk08JaEK5bM%3D)\n---\n如果你有特定偏好（如甜/咸/辣、预算范围、是否要低卡等），可以告诉我，我可以进一步帮你筛选！"
+  },
+  {
+    "role": "user",
+    "content": "我想去天安门该怎么走"
+  },
+  {
+    "role": "assistant",
+    "content": "天安门导航链接：[点击查看路线](https://api.map.baidu.com/direction?origin=name:起点|latlng:33.872028589385465,-118.24580061262462&destination=name:终点|latlng:39.84884446158849,116.43405577301036&mode=driving&output=html&coord_type=bd09ll&src=webapp.baidu.openAPIdemo&origin_region=Los Angeles&destination_region=北京市)"
+  },
+  {
+    "role": "user",
+    "content": "从安徽大学到北京天安门怎么走？"
+  },
+  {
+    "role": "assistant",
+    "content": "很抱歉，当前地图服务暂时无法正常调用，无法为您规划从安徽大学到北京天安门的路线。建议您稍后重试，或直接使用百度地图App搜索“安徽大学”到“天安门”获取导航信息。"
+  }
+]

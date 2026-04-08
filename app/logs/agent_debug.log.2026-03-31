@@ -1,0 +1,55 @@
+2026-03-31 17:40:03,511 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-03-31 17:40:03,522 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-03-31 17:40:03,532 | DEBUG    | ITS_App:31 | 成功加载提示词: product_query_agent
+2026-03-31 17:41:18,773 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-03-31 17:41:18,780 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-03-31 17:41:18,789 | DEBUG    | ITS_App:31 | 成功加载提示词: product_query_agent
+2026-03-31 17:41:36,041 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-03-31 17:41:36,048 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-03-31 17:41:36,060 | DEBUG    | ITS_App:31 | 成功加载提示词: product_query_agent
+2026-03-31 17:41:52,147 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-03-31 17:41:52,155 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-03-31 17:41:52,165 | DEBUG    | ITS_App:31 | 成功加载提示词: product_query_agent
+2026-03-31 17:41:52,496 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-03-31 17:41:52,507 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-03-31 17:41:52,515 | DEBUG    | ITS_App:31 | 成功加载提示词: product_query_agent
+2026-03-31 19:07:07,852 | DEBUG    | ITS_App:91 | [Location] Trying geocode for: '我在昌平区，帮我找最近的联想服务站'
+2026-03-31 19:07:10,043 | INFO     | ITS_App:105 | [Location] Geocode success: '我在昌平区，帮我找最近的联想服务站' → (40.0690902489222, 116.42381320375503)
+2026-03-31 19:07:10,254 | INFO     | ITS_App:252 | [NearestShops] Found 3 shops near (40.0690902489222, 116.42381320375503)
+2026-03-31 19:11:34,750 | DEBUG    | ITS_App:91 | [Location] Trying geocode for: '我在昌平区，帮我找最近的联想服务站'
+2026-03-31 19:11:38,170 | INFO     | ITS_App:105 | [Location] Geocode success: '我在昌平区，帮我找最近的联想服务站' → (40.0690902489222, 116.42381320375503)
+2026-03-31 19:11:38,191 | INFO     | ITS_App:252 | [NearestShops] Found 3 shops near (40.0690902489222, 116.42381320375503)
+2026-03-31 19:28:34,296 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-03-31 19:28:34,321 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-03-31 19:28:34,379 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-03-31 19:28:35,086 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-03-31 19:28:35,101 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-03-31 19:28:35,174 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-03-31 19:29:11,310 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-03-31 19:29:11,361 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-03-31 19:29:11,433 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-03-31 19:29:12,048 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-03-31 19:29:12,068 | DEBUG    | ITS_App:31 | 成功加载提示词: product_query_agent
+2026-03-31 19:29:12,133 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-03-31 19:29:12,134 | DEBUG    | ITS_App:31 | 成功加载提示词: orchestrator_v1
+2026-03-31 19:29:12,152 | DEBUG    | ITS_App:31 | 成功加载提示词: product_query_agent
+2026-03-31 19:29:12,213 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-03-31 19:29:12,218 | DEBUG    | ITS_App:31 | 成功加载提示词: orchestrator_v1
+2026-03-31 19:29:12,235 | DEBUG    | ITS_App:31 | 成功加载提示词: product_query_agent
+2026-03-31 19:29:12,307 | DEBUG    | ITS_App:31 | 成功加载提示词: orchestrator_v1
+2026-03-31 19:29:41,427 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-03-31 19:29:41,629 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-03-31 19:29:42,118 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-03-31 19:29:42,137 | DEBUG    | ITS_App:31 | 成功加载提示词: product_query_agent
+2026-03-31 19:29:42,204 | DEBUG    | ITS_App:31 | 成功加载提示词: orchestrator_v1
+2026-03-31 19:29:42,376 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-03-31 19:29:42,395 | DEBUG    | ITS_App:31 | 成功加载提示词: product_query_agent
+2026-03-31 19:29:42,463 | DEBUG    | ITS_App:31 | 成功加载提示词: orchestrator_v1
+2026-03-31 19:30:06,408 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-03-31 19:30:06,452 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-03-31 19:30:07,166 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-03-31 19:30:07,186 | DEBUG    | ITS_App:31 | 成功加载提示词: product_query_agent
+2026-03-31 19:30:07,235 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-03-31 19:30:07,250 | DEBUG    | ITS_App:31 | 成功加载提示词: orchestrator_v1
+2026-03-31 19:30:07,256 | DEBUG    | ITS_App:31 | 成功加载提示词: product_query_agent
+2026-03-31 19:30:07,319 | DEBUG    | ITS_App:31 | 成功加载提示词: orchestrator_v1

@@ -1,0 +1,12 @@
+2026-04-02 14:44:35,495 | INFO     | ITS_App:215 | Memory backend initialized with in-memory fallback.
+2026-04-02 14:44:35,523 | WARNING  | ITS_App:70 | Initializing PostgreSQL memory backend failed, falling back to in-memory: boom
+2026-04-02 14:44:35,523 | INFO     | ITS_App:215 | Memory backend initialized with in-memory fallback.
+2026-04-02 14:44:35,534 | INFO     | ITS_App:68 | Memory backend initialized with PostgreSQL.
+2026-04-02 14:45:05,313 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-04-02 14:45:05,346 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-04-02 14:45:06,161 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-04-02 14:45:06,167 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-04-02 14:45:06,188 | DEBUG    | ITS_App:31 | 成功加载提示词: product_query_agent
+2026-04-02 14:45:06,191 | DEBUG    | ITS_App:31 | 成功加载提示词: product_query_agent
+2026-04-02 14:45:06,333 | DEBUG    | ITS_App:31 | 成功加载提示词: orchestrator_v1
+2026-04-02 14:45:06,334 | DEBUG    | ITS_App:31 | 成功加载提示词: orchestrator_v1

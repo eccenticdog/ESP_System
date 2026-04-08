@@ -1,0 +1,22 @@
+[
+  {
+    "role": "system",
+    "content": "你是一个有记忆的智能体助手，请基于上下文历史会话用户问题 (会话ID session_1774361251866_wx9gjk3e5)"
+  },
+  {
+    "role": "user",
+    "content": "电脑如何开机"
+  },
+  {
+    "role": "assistant",
+    "content": "以下信息来自网络搜索，仅供参考，不构成官方建议。\n电脑开机的基本步骤如下：\n### 一、检查电源连接状态\n1. **确认主机电源线**已牢固插入电源插座与机箱后部的电源接口。\n2. **检查显示器电源线**是否连接正常，并确认显示器电源开关已打开。\n3. 若使用插线板，请确认其电源开关已开启且指示灯亮起。\n### 二、确认硬件开关位置\n- 部分台式机机箱后部设有独立电源开关（通常在电源模块附近），需将其拨至“ON”位置（一般为靠近身体一侧）。\n### 三、正确按下电源按钮\n1. 找到机箱前面板上的圆形凸起按钮，通常标有“Power”或电源符号。\n2. **短按**（不超过1秒）并立即释放电源键。\n3. 观察机箱内部风扇是否转动、硬盘指示灯是否闪烁。\n### 四、连接并检查外设状态\n- 确认键盘、鼠标等USB设备已正确插入，若存在异常可暂时拔除非必要外设再尝试开机。\n### 五、观察启动画面与系统加载\n1. 确认显示器输入源（如HDMI、DP、VGA）与主机视频输出接口一致。\n2. 屏幕应出现品牌Logo或BIOS自检界面。\n3. 若长时间无信号，可检查显卡连接或更换视频线缆。\n> ⚠️ 注意：正确的开机顺序是先开显示器，再按主机电源键，有助于系统正确识别显示设备。"
+  },
+  {
+    "role": "user",
+    "content": "给我推荐零食"
+  },
+  {
+    "role": "assistant",
+    "content": "以下是几款热门零食推荐，涵盖膨化、肉脯、辣条等多种类型，适合追剧、办公或解馋：\n---\n1. **【盼盼】鸡味块 Hello Kitty 联名 55g×5**  \n   - 价格：¥15.19  \n   - 特点：经典膨化休闲零食，非油炸，联名包装可爱  \n   - 链接：[点击购买](https://mobile.yangkeduo.com/duo_coupon_landing.html?goods_id=748228525345&pid=14128556_216467640&display_mod=101&goods_sign=E9j2DF-rw7VK9TQhwfDfTGqkKg4NqyL2NA_JOSjyKaxh&cpsSign=CC_250520_14128556_216467640_4cf39fd9b7361433a30e71c86ec069b5&_x_ddjb_act=%7B%22st%22%3A%221%22%7D&duoduo_type=2&launch_pdd=1&campaign=ddjb&cid=launch_dl_force_)\n2. **【美珍香】猪肉脯 迷你金钱烧烤味 100g/200g**  \n   - 价格：¥46.8  \n   - 特点：独立小包装，办公室休闲小吃，肉质紧实有嚼劲  \n   - 链接：[点击购买](https://mobile.yangkeduo.com/duo_coupon_landing.html?goods_id=437417231373&pid=14128556_216467640&goods_sign=E9z2x7JXuplK9TQhwfDb3G24L4s6o-mhAw_JQFWj4CidN&cpsSign=CC_221223_14128556_216467640_d5e520194681b103c1ad971c80603488&_x_ddjb_act=%7B%22st%22%3A%221%22%7D&duoduo_type=2&launch_pdd=1&campaign=ddjb&cid=launch_dl_force_)\n3. **卫龙傣味舂鸡脚味魔芋爽辣条**  \n   - 价格：¥14.7  \n   - 特点：网红辣味魔芋爽，酸辣开胃，适合重口味爱好者  \n   - 链接：[点击购买](https://s.click.taobao.com/t?e=m%3D2%26s%3DKWzY9aqaroZw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0Ht8LibOqET%2BrdNmzuqrRL0ZvXyjnZz4DyRUVuhXTANrzAzxiKY9o1o21iH3QDqMDGEs8nka5PQlUyNpxLfgKr0jWpzpm6nEC8Jv2VO0sg%2BIoJJSMmjnDKDWgB6C779fptEsKzTGJcwF2btMkUxcCF5UsM6wGV2tJfTCMU%2B3bdUOkUdvk4DjW1btmaitC5fIilChp%2BYmpUQp3WSVL5rS8C0F0HPXN0B62sYl7w3%2FA2kb&union_lens=lensId%3AMAPI%401761317832%402103eafd_0e78_19a16b94686_19e3%4001%40eyJmbG9vcklkIjo4MDMwOX0ie)\n4. **【乐事】薯片经典袋装 75g×11 多口味组合**  \n   - 价格：¥46.9  \n   - 特点：多口味混搭，聚会追剧必备，大分量更实惠  \n   - 链接：[点击购买](https://mobile.yangkeduo.com/duo_coupon_landing.html?goods_id=912565700299&pid=14128556_216467640&display_mod=101&goods_sign=E9H2dhNpeF9K9TQhwfDAao4y12801IZFpw_JCS8ZFYK2&cpsSign=CC_260306_14128556_216467640_03e9e939e7042d8cc681759094d7e34e&_x_ddjb_act=%7B%22st%22%3A%221%22%7D&duoduo_type=2&launch_pdd=1&campaign=ddjb&cid=launch_dl_force_)\n5. **洽洽喀吱脆非油炸薯片 多口味**  \n   - 价格：¥17.90  \n   - 特点：非油炸工艺，酥脆不腻，多种口味可选  \n   - 链接：[点击购买](https://s.click.taobao.com/t?e=m%3D2%26s%3DyEJNpkImtvZw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0ITzkzlfKdu7cnnKp7vRkY8ZvXyjnZz4DyRUVuhXTANrzAzxiKY9o1o21iH3QDqMDGEs8nka5PQlUyNpxLfgKr0jWpzpm6nEC85DqLvMuKYBdHhpZT7gd61euZnyBCVSD%2BdlDiN9fZyBKjyqc5YEMg3vX0DKPSERChz2E6vzoRY4zjW0YKfP0a00eD3y7cSpne%2BF8QcbKZCA%2FUzC%2BCetw0m4z%2BVjqh55IHEqY%2Bakgpmw&union_lens=lensId%3AMAPI%401752860754%402132c48c_1b80_1981ea48196_619b%4001%40eyJmbG9vcklkIjo4MDMwOX0ie)\n---\n如需了解某款零食的详细参数或更多选择，请告诉我具体品牌或口味偏好！"
+  }
+]
